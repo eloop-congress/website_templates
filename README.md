@@ -2,8 +2,8 @@
 Template of eloop.org
 
 # build
-
-    git clone https://github.com/alexandrevicenzi/Flex themes/Flex
+    
+    git submodule update --init
     pip install pelican markdown ghp-import
     pelican
 
