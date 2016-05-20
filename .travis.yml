@@ -11,16 +11,15 @@ script:
 - "./ci/build.sh"
 
 deploy:
-  provider: script
-  script: ci/to-ghp.sh
-  skip_cleanup: true
-  on:
-    tags: true
+  - provider: script
+    script: ci/to-ghp.sh
+    skip_cleanup: true
 
-deploy:
-  provider: script
-  skip_cleanup: true
-  script: ci/to-prod-ghp.sh
+  - provider: script
+    skip_cleanup: true
+    script: ci/to-prod-ghp.sh
+    on:
+      tags: true
 
 env:
   global:
