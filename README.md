@@ -1,9 +1,9 @@
-# website\_templates
-Template of eloop.org
+# Pelican Template for eloop.org
+
+* Status:![travis build](https://travis-ci.org/eloop-congress/website_templates.svg)
 
 # build
-    
-    git submodule update --init
+
     pip install pelican markdown ghp-import
     pelican
 
@@ -13,3 +13,5 @@ Template of eloop.org
     python `which ghp-import` output -n
     git remote add preprod git@github.com:eloop-congress/dev.eloop.org.git || :
     git push preprod gh-pages:gh-pages -f
+
+also see `.travis.yml`
