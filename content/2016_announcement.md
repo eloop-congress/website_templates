@@ -1,0 +1,25 @@
+Title: eloop 2016
+Date: 2016-05-20 13:20
+Category: eloop2016
+
+Am **NNten November 2016** findet mit der eloop 2016 eine Konferenz zum Thema **Enterprise Software Deployment** und **Continuity Management** das erste Mal in Stuttgart statt.
+
+Der Fokus der Konferenz liegt besonders darauf, wie sich die **Anforderungen von Enterprise Software** mit den Erfordernissen des Betriebs und der Wartbarkeit vereinen lassen. Vorgestellt werden praktische Beispiele dieses Spannungsfeldes, Pattern und Überlegungen zum Thema und insbesondere Erfahrungen mit **Devops, Agile und im Bereich Cyber in Enterprise Environments**. Dazu gibt wird ein Rahmenprogramm angeboten, dass sich kritisch mit Tendenzen und Fragen aktueller Softwareentwicklung auseinandersetzt. Reflektiert wird die praktische Anwendung von Paradigmen um Umfeld einer **digitalisierten Unternehmenswelt**.
+
+Die Veranstaltung findet im Konferenzzentrum des shack eV. in Stuttgart statt. Der Eintritt ist frei. Durch eine vorherige Anmeldung kann garantiert werden, dass genügend Kapazitäten für alle Teilnehmer zur verfügung stehen. Alle Besucher der Konferenz sind eingeladen ihre Erfahrungen im Rahmen der Konferenz zu teilen - gerne auch im Rahmen eines Vortrag/Panels. Im Call for Papers finden sich alle Information dazu.
+
+Wir freuen uns darauf, Sie oder Ihr Unternehmen auf der eloop 2016 begrüßen zu dürfen. Neben der Möglichkeit eines Vortrages sich auch Unternehmen gerne eingeladen den freien und offenen Character der Veranstaltung durch ein [Sponsoring](/sponsors.html) zu unterstützen.
+
+###Auf einen Blick
+
+NNter November 10:00 (Einlass ab 09:30)  
+bis NNter November 18:00
+
+Konferenzzentrum des shack eV.  
+Ulmer Straße 255  
+70372 Stuttgart
+
+Eintritt: frei, _ermöglicht durch die großzügige Unterstützung unserer [Sponsoren](/sponsors.html)_
+
+Kontakt: [kontakt@eloop.org](mailto:kontakt@eloop.org)
+
