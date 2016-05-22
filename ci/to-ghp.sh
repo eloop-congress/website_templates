@@ -7,6 +7,8 @@ GH_REPO=${GH_REPO:-dev.eloop.org}
 CNAME=${CNAME:-$GH_REPO}
 
 echo "${CNAME}" > output/CNAME
+sed -i "s;^\(SITEURL\).*;\1 = 'http://${CNAME}/';" ./pelicanconf.py
+
 python "$(command -v ghp-import)" output -n
 git push -fq "https://${GH_TOKEN}@github.com/eloop-congress/${GH_REPO}.git"  gh-pages
 

@@ -28,6 +28,12 @@ The recommend way to install is over [pelican-themes](https://github.com/getpeli
 
 The `master` branch is the development branch. If you're happy with fresh new things and maybe sometimes (~most of time~) broken things you can clone the `master`, but I would recommend to you to clone a tag branch.
 
+### Compile Lesscss
+
+    nix-shell -p lessc
+    cd static/stylesheet/
+    lessc -x style.less style.min.css
+
 ## Docs
 
 [Go to Wiki](https://github.com/alexandrevicenzi/Flex/wiki)
