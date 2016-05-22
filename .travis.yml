@@ -1,9 +1,5 @@
 language: python
 
-branches:
-  only:
-  - master
-
 install:
 - pip install pelican ghp-import
 
@@ -14,12 +10,16 @@ deploy:
   - provider: script
     script: ci/to-ghp.sh
     skip_cleanup: true
+    on:
+      branch: master
 
   - provider: script
     skip_cleanup: true
     script: ci/to-prod-ghp.sh
     on:
       tags: true
+      all_branches: true
+
 
 env:
   global:
