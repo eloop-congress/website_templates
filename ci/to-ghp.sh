@@ -7,7 +7,7 @@ GH_REPO=${GH_REPO:-dev.eloop.org}
 CNAME=${CNAME:-$GH_REPO}
 
 echo "rebuilding pelican with correct siteurl"
-sed -i "s;^\(SITEURL\).*;\1 = 'http://${CNAME}/';" ./pelicanconf.py
+sed -i "s;^\(SITEURL\).*;\1 = 'http://${CNAME}';" ./pelicanconf.py
 pelican
 
 echo "adding CNAME file"
