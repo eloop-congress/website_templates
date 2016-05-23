@@ -1,7 +1,7 @@
 Title: Programm
 Date: 2016-05-20 12:20
 Category: eloop2016
-Auhtors: Alexis Metaireau, Conan Doyle
+Authors: Alexis Metaireau, Conan Doyle
 
 ##Enterprise Patterns 
 Speaker: Bob Ross, Krebs Bob
