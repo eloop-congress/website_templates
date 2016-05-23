@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'eloop team'
 SITENAME = 'eloop 2016'
-SITEURL = "http://eloop.org"
+SITEURL = "eloop.org"
 SITETITLE = "eloop 2016"
 SITESUBTITLE = "Continous Delivery Conference"
 
@@ -20,6 +20,8 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+FAVICON = SITEURL + "/images/favicon.png"
 
 STATIC_PATHS = ["images"]
 SUMMARY_MAX_LENGTH = None
