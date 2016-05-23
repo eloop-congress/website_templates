@@ -36,7 +36,7 @@ DEFAULT_PAGINATION = False
 
 THEME = "themes/Flex"
 
-SITELOGO = SITEURL + "/images/logo_white.png"
+SITELOGO = SITEURL + "/images/logo_web.png"
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
