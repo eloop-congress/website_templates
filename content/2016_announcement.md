@@ -12,8 +12,8 @@ Wir freuen uns darauf, Sie oder Ihr Unternehmen auf der eloop 2016 begrüßen zu
 
 ###Auf einen Blick
 
-19ter November 10:00 (Einlass ab 09:30) bis 18:00
-Im Anschluss Meet And Greet mit Sektbegleitung
+19ter November 10:00 (Einlass ab 09:30) bis 18:00  
+Im Anschluss Meet&Greet mit Sektbegleitung
 
 Konferenzzentrum des shack eV.  
 Ulmer Straße 255  
