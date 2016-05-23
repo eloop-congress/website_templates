@@ -8,7 +8,7 @@ Der Fokus der Konferenz liegt besonders darauf, wie sich die **Anforderungen von
 
 Die Veranstaltung findet im Konferenzzentrum des shack eV. in Stuttgart statt. Der Eintritt ist frei. Durch eine vorherige [Anmeldung]({filename}pages/Teilnehmen.md) kann garantiert werden, dass genügend Kapazitäten für alle Teilnehmer zur verfügung stehen. Alle Besucher der Konferenz sind eingeladen ihre Erfahrungen im Rahmen der Konferenz zu teilen - gerne auch im Rahmen eines Vortrag/Panels. Im Call for Papers finden sich alle Information dazu.
 
-Wir freuen uns darauf, Sie oder Ihr Unternehmen auf der eloop 2016 begrüßen zu dürfen. Neben der Möglichkeit eines Vortrages sind auch Unternehmen gerne eingeladen den freien und offenen Character der Veranstaltung durch ein [Sponsoring]({filename}pages/Sponsoren.md) zu unterstützen.
+Wir freuen uns darauf, Sie oder Ihr Unternehmen auf der eloop 2016 begrüßen zu dürfen. Neben der Möglichkeit eines Vortrages sind auch Unternehmen gerne eingeladen den freien und offenen Charakter der Veranstaltung durch ein [Sponsoring]({filename}pages/Sponsoren.md) zu unterstützen.
 
 ###Auf einen Blick
 
