@@ -9,6 +9,12 @@ Speaker: Bob Ross, Krebs Bob
 _Es ist schon alles gesagt, nur noch nicht von allen._ - Karl Valentin  
 Viele Probleme der modernen IT wurden bereits gelöst, aber das Wissen um die Lösung ist nicht überall bekannt. Dieser Vortrag zeigt Lösungswege auf, mit denen sich bekannte Probleme im Bereich Application Resiliency lösen lassen.
 
+##Gut genug
+Speaker: Nele Plese
+
+Dokumentierter, getesteter, eleganter und performanter Code sind das Fundament einer stabilen Lösung. Doch wie sehr kann man eigentlich an diesen Bausteinen sparen, ohne dass das Gebäude einstürzt? Muss Code immer für die Ewigkeit gebaut sein?  
+Antworten und mehr in diesem Talk von Nele Plese.
+
 ##The Cult of Done Manifesto
 Speaker: Bob Ross, Krebs Bob
 
