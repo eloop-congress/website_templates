@@ -23,7 +23,7 @@ AUTHOR_FEED_RSS = None
 
 FAVICON = SITEURL + "/images/favicon.png"
 
-STATIC_PATHS = ["images"]
+STATIC_PATHS = ["images", "static"]
 SUMMARY_MAX_LENGTH = None
 
 #LINKS = ((),)

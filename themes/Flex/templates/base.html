@@ -2,7 +2,14 @@
 <html lang="{{ DEFAULT_LANG }}">
 <head>
   <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,400italic' rel='stylesheet' type='text/css'>
-
+  <script src="/static/particles.js"></script>
+  <script>
+    window.onload = function(){
+      particlesJS.load("aside", '/static/particles.json', function() {
+        console.log('callback - particles.js config loaded');
+      });
+    }
+  </script>
   {% if USE_LESS %}
     <link rel="stylesheet/less" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/stylesheet/style.less">
     <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.5.1/less.min.js" type="text/javascript"></script>
@@ -57,7 +64,7 @@
     {% include "partial/gtm.html" %}
   {% endif %}
   <aside>
-    <div>
+    <div id="aside">
       <a href="{{ SITEURL }}">
         {% if SITELOGO %}
         <img src="{{ SITELOGO }}" alt="{{ SITETITLE }}" title="{{ SITETITLE }}">
