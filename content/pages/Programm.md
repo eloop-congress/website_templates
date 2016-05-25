@@ -32,6 +32,9 @@ If you have an idea and publish it on the internet, that counts as a ghost of do
 Done is the engine of more.  
 
 ##Lightning Talks
-Kurzvorträge zu Allem, dass keinen ganzen Vortrag füllt. Beispiele, Erfahrungen, Best Practises. Offenes Mikrofon sobald die eingereichten Themen abgehandelt wurden.  
+Kurzvorträge zu Allem, dass keinen ganzen Vortrag füllt. Beispiele, Erfahrungen, Best Practises. Offenes Mikrofon sobald die eingereichten Themen abgehandelt wurden. 
+
+##Enterprise Standup (Aufführung)
+Das IT-Team der B&S Farben und Lacke ist jetzt agil. Das hat der Chef so beschlossen. Inzwischen gibt es seit einer Woche jeden Morgen Standup - und wir sind live dabei.
 
 Einreichungen: [cfp@eloop.org](mailto:cfp@eloop.org)
