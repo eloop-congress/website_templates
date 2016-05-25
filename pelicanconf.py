@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'eloop team'
 SITENAME = 'eloop 2016'
-SITEURL = "eloop.org"
+SITEURL = ""
 SITETITLE = "eloop 2016"
 SITESUBTITLE = "Continous Delivery Conference"
 
