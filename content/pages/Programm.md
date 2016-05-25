@@ -13,7 +13,6 @@ Viele Probleme der modernen IT wurden bereits gelöst, aber das Wissen um die L�
 Speaker: Nele Plese
 
 Dokumentierter, getesteter, eleganter und performanter Code sind das Fundament einer stabilen Lösung. Doch wie sehr kann man eigentlich an diesen Bausteinen sparen, ohne dass das Gebäude einstürzt? Muss Code immer für die Ewigkeit gebaut sein?  
-Antworten und mehr in diesem Talk von Nele Plese.
 
 ##The Cult of Done Manifesto
 Speaker: Bob Ross, Krebs Bob
