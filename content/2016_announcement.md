@@ -2,6 +2,19 @@ Title: eloop 2016
 Date: 2016-05-20 13:20
 Category: eloop2016
 
+<h2 class="headline">
+  <span>eloop 2016</span>
+  <div class="slogans">
+    <span>Ich lass das jetzt so</span>
+    <span>Wir machen jetzt Agile</span>
+    <span>Eine Stunde Standup</span>
+    <span>Ich fix das nur kurz</span>
+    <span>Das ist Industriestandard</span>
+    <span>Look ma, no hands</span>
+  </div>
+  <br/>
+</h2>
+
 Am **19. November 2016** findet mit der eloop 2016 eine Konferenz zum Thema **Enterprise Software Deployment** und **Continuity Management** das erste Mal in Stuttgart statt.
 
 Der Fokus der Konferenz liegt besonders darauf, wie sich die **Anforderungen von Enterprise Software** mit den Erfordernissen des Betriebs und der Wartbarkeit vereinen lassen. Vorgestellt werden praktische Beispiele dieses Spannungsfeldes, Pattern und Überlegungen zum Thema und insbesondere Erfahrungen mit **Devops, Agile und im Bereich Cyber in Enterprise Environments**. Dazu gibt wird ein Rahmenprogramm angeboten, dass sich kritisch mit Tendenzen und Fragen aktueller Softwareentwicklung auseinandersetzt. Reflektiert wird die praktische Anwendung von Paradigmen um Umfeld einer **digitalisierten Unternehmenswelt**.

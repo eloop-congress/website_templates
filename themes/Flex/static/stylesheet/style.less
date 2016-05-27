@@ -8,6 +8,59 @@
 @sans: 'Source Sans Pro', 'Verdana', sans-serif;
 @mono: 'Source Code Pro', 'Consolas', monospace;
 
+.headline {
+  margin: 0;
+  text-align: left;
+  text-shadow: 1px 1px 1px rgba(255,255,255,0.8);
+  span {
+    color: #444;
+    white-space: nowrap;
+    font-size: 200%;
+    font-weight: normal;
+  }
+}
+
+.slogans {
+  display: inline;
+  text-indent: 20px;
+  span {
+    animation: rotateWordsSecond 18s linear infinite 0s;
+    position: absolute;
+    opacity: 0;
+    overflow: hidden;
+    width: 100%;
+    color: #6b969d;
+    &:nth-child(2) {
+      animation-delay: 3s;
+      color: #6b889d;
+    }
+    &:nth-child(3) {
+      animation-delay: 6s;
+      color: #6b739d;
+    }
+    &:nth-child(4) {
+      animation-delay: 9s;
+      color: #7a6b9d;
+    }
+    &:nth-child(5) {
+      animation-delay: 12s;
+      color: #8d6b9d;
+    }
+    &:nth-child(6) {
+      animation-delay: 15s;
+      color: #9b6b9d;
+    }
+  }
+}
+
+@keyframes rotateWordsSecond {
+  0% { opacity: 1; animation-timing-function: ease-in; width: 0px; }
+  10% { opacity: 0.3; width: 0px; }
+  20% { opacity: 1; width: 100%; }
+  27% { opacity: 0; width: 100%; }
+  100% { opacity: 0; }
+}
+
 html, body {
   width: 100%;
   height: 100%;
