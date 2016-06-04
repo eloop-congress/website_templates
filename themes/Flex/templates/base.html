@@ -10,7 +10,7 @@
 
 <head>
   <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,400italic' rel='stylesheet' type='text/css'>
-  <meta name="google-site-verification" content="xpr9W4x1kp8nHfqYyNFjrCe-0aPWb3adUDuIlzPPkrQ" /> 
+  <meta name="google-site-verification" content="xpr9W4x1kp8nHfqYyNFjrCe-0aPWb3adUDuIlzPPkrQ" />
   <script src="/static/particles.js"></script>
   <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/1.1.1/typed.min.js"></script>
@@ -29,19 +29,6 @@
           });
     }
   </script>
-  
-  
-  <script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-	  ga('create', 'UA-78795816-1', 'auto');
-	  ga('send', 'pageview');
-
-  </script>
-
 
   {% if USE_LESS %}
     <link rel="stylesheet/less" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/stylesheet/style.less">
@@ -74,16 +61,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="robots" content="{{ ROBOTS }}" />
 
-  {% if BROWSER_COLOR %}
-    <!-- Chrome, Firefox OS and Opera -->
-    <meta name="theme-color" content="{{ BROWSER_COLOR }}">
-    <!-- Windows Phone -->
-    <meta name="msapplication-navbutton-color" content="{{ BROWSER_COLOR }}">
-    <!-- iOS Safari -->
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  {% endif %}
-
   {% block meta %}
     <meta name="author" content="{{ AUTHOR }}" />
     <meta name="description" content="{{ SITEDESCRIPTION }}" />
@@ -93,9 +70,6 @@
   <title>{{ SITENAME }}{% block title %}{% endblock %}</title>
 </head>
 <body>
-  {% if GOOGLE_TAG_MANAGER %}
-    {% include "partial/gtm.html" %}
-  {% endif %}
   <aside>
     <div id="aside" style="width: 100%; height: 99%; position: absolute; padding: 0; margin: 0; z-index: -10;"></div>
     <div>
@@ -161,18 +135,6 @@
 
   {% if GOOGLE_ANALYTICS %}
     {% include "partial/ga.html" %}
-  {% endif %}
-
-  {% if GUAGES %}
-    {% include "partial/guages.html" %}
-  {% endif %}
-
-  {% if ADD_THIS_ID %}
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ ADD_THIS_ID }}" async="async"></script>
-  {% endif %}
-
-  {% if PIWIK_URL and PIWIK_SITE_ID %}
-    {% include "partial/piwik.html" %}
   {% endif %}
 
   {% block additional_js %}{% endblock %}

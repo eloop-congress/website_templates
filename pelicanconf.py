@@ -37,6 +37,6 @@ DEFAULT_PAGINATION = False
 THEME = "themes/Flex"
 
 SITELOGO = SITEURL + "/images/logo_web.png"
-
+GOOGLE_ANALYTICS = "UA-78795816-1"
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
