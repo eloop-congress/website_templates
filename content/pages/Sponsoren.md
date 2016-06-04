@@ -11,8 +11,8 @@ Wenn auch Sie die eloop 2016 sponsoren wollen schrieben Sie bitte an [sponsoring
 ###Sponsoren
 [![krebs]({filename}/images/sponsoren/krebs.png)](http://krebsco.de)
 ![spacer]({filename}/images/sponsoren/spacer.png)
-[![shack]({filename}/images/sponsoren/shack.png)]
-![spacer]({filename}/images/sponsoren/spacer.png)(http://shackspace.de)
+[![shack]({filename}/images/sponsoren/shack.png)](http://shackspace.de)
+![spacer2]({filename}/images/sponsoren/spacer.png)
 [![fund]({filename}/images/sponsoren/eloopfund.png)](http://eloop.org)
 
 ###Medienpartner
