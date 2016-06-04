@@ -14,6 +14,10 @@ Speaker: Nele Plese
 
 Dokumentierter, getesteter, eleganter und performanter Code sind das Fundament einer stabilen Lösung. Doch wie sehr kann man eigentlich an diesen Bausteinen sparen, ohne dass das Gebäude einstürzt? Muss Code immer für die Ewigkeit gebaut sein?  
 
+##Ohne NAT geht es nicht - dann aber bitte nach IPv6
+Speaker: TabTwo
+Seit über 20 Jahren warnen wir vor dem Ende von IPv4. IoT und Industrie 4.0 lassen die Prophezeiung nun endlich wahr werden.
+
 ##The Cult of Done Manifesto
 Speaker: Bob Ross, Krebs Bob
 
