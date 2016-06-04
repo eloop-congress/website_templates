@@ -16,6 +16,7 @@ Dokumentierter, getesteter, eleganter und performanter Code sind das Fundament e
 
 ##Ohne NAT geht es nicht - dann aber bitte nach IPv6
 Speaker: TabTwo
+
 Seit über 20 Jahren warnen wir vor dem Ende von IPv4. IoT und Industrie 4.0 lassen die Prophezeiung nun endlich wahr werden.
 
 ##The Cult of Done Manifesto
