@@ -20,7 +20,7 @@ Speaker: TabTwo
 Seit über 20 Jahren warnen wir vor dem Ende von IPv4. IoT und Industrie 4.0 lassen die Prophezeiung nun endlich wahr werden.
 
 ##The Cult of Done Manifesto
-Speaker: Bob Ross, Krebs Bob
+Speaker: makefu
 
 There are three states of being. Not knowing, action and completion.  
 Accept that everything is a draft. It helps to get it done.  
@@ -39,6 +39,17 @@ Done is the engine of more.
 ##Lightning Talks
 Kurzvorträge zu Allem, dass keinen ganzen Vortrag füllt. Beispiele, Erfahrungen, Best Practises. Offenes Mikrofon sobald die eingereichten Themen abgehandelt wurden. 
 
+## Stockholm Infest
+Speaker: lassulus
+
+Ihr Cloud Provider bietet nur die Linux Distributionen an die Ihre Oma schon
+benutzt hat, aber die Devops Hipster fordern den ganz heissen Scheiss? Alles kein
+Problem, denn am Ende sind es doch nur Bits und Bytes die etwas verschoben
+werden müssen!
+
+Lasslus stellt vor seine Arbeit für das Projekt Stockholm vor. Ein neuartiger
+Weg um während des laufenden Betriebs das Operating System *in place* komplett 
+auszutauschen.
 ##Enterprise Standup (Aufführung)
 Das IT-Team der B&S Farben und Lacke ist jetzt agil. Das hat der Chef so beschlossen. Inzwischen gibt es seit einer Woche jeden Morgen Standup - und wir sind live dabei.
 
