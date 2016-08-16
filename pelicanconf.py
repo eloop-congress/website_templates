@@ -38,5 +38,6 @@ THEME = "themes/Flex"
 
 SITELOGO = SITEURL + "/images/logo_web.png"
 GOOGLE_ANALYTICS = "UA-78795816-1"
+INDEX_SAVE_AS = 'blog_index.html'
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
