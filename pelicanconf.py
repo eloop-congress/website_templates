@@ -26,12 +26,11 @@ FAVICON = SITEURL + "/images/favicon.png"
 STATIC_PATHS = ["images", "static"]
 SUMMARY_MAX_LENGTH = None
 
-#LINKS = ((),)
+LINKS = (("Information","/blog_index.html"),)
 
 # Social widget
 SOCIAL = (("twitter", "https://twitter.com/eloop_congress"),
 		  ("envelope-o", "mailto:kontakt@eloop.org"))
-
 DEFAULT_PAGINATION = False
 
 THEME = "themes/Flex"
