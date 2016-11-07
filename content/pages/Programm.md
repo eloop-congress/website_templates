@@ -3,14 +3,14 @@ Date: 2016-05-20 12:20
 Category: eloop2016
 Authors: Alexis Metaireau, Conan Doyle
 
-##Enterprise Patterns 
-Speaker: Bob Ross, Krebs Bob
+##Enterprise Patterns
+Speaker: makefu
 
 _Es ist schon alles gesagt, nur noch nicht von allen._ - Karl Valentin  
 Viele Probleme der modernen IT wurden bereits gelöst, aber das Wissen um die Lösung ist nicht überall bekannt. Dieser Vortrag zeigt Lösungswege auf, mit denen sich bekannte Probleme im Bereich Application Resiliency lösen lassen.
 
 ##Gut genug
-Speaker: Nene Plese
+Speaker: ciko
 
 Dokumentierter, getesteter, eleganter und performanter Code sind das Fundament einer stabilen Lösung. Doch wie sehr kann man eigentlich an diesen Bausteinen sparen, ohne dass das Gebäude einstürzt? Muss Code immer für die Ewigkeit gebaut sein?  
 
@@ -37,7 +37,7 @@ If you have an idea and publish it on the internet, that counts as a ghost of do
 Done is the engine of more.  
 
 ##Lightning Talks
-Kurzvorträge zu Allem, dass keinen ganzen Vortrag füllt. Beispiele, Erfahrungen, Best Practises. Offenes Mikrofon sobald die eingereichten Themen abgehandelt wurden. 
+Kurzvorträge zu Allem, dass keinen ganzen Vortrag füllt. Beispiele, Erfahrungen, Best Practises. Offenes Mikrofon sobald die eingereichten Themen abgehandelt wurden.
 
 ## Stockholm Infest
 Speaker: lassulus
@@ -50,7 +50,14 @@ werden müssen!
 Lasslus stellt vor seine Arbeit für das Projekt Stockholm vor. Ein neuartiger
 Weg um während des laufenden Betriebs das Operating System *in place* komplett 
 auszutauschen.
+
 ##Enterprise Standup (Aufführung)
 Das IT-Team der B&S Farben und Lacke ist jetzt agil. Das hat der Chef so beschlossen. Inzwischen gibt es seit einer Woche jeden Morgen Standup - und wir sind live dabei.
 
+## Devops Against Humanity
+Als Ausklang des Tages sind je nach Andrang und verfügbarer ein bis zwei Runden des Legespiels
+["Devops against Humanity"]( https://github.com/bridgetkromhout/devops-against-humanity ) eingeplant. Erfahrungen im Bereich Continuous Delivery und Customer Management sind hier vom Vorteil.
+
+
 Einreichungen: [cfp@eloop.org](mailto:cfp@eloop.org)
+
