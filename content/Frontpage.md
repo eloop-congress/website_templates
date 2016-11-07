@@ -3,6 +3,7 @@ Date: 2016-05-22 18:30
 Category: eloop2016
 Authors: eloop team
 save_as: index.html
+status: draft
 
 
 Am **19. November 2016** findet mit der eloop 2016 eine Konferenz zum Thema
