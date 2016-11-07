@@ -56,7 +56,7 @@ Das IT-Team der B&S Farben und Lacke ist jetzt agil. Das hat der Chef so beschlo
 
 ## Devops Against Humanity
 Als Ausklang des Tages sind je nach Andrang und verfügbarer ein bis zwei Runden des Legespiels
-["Devops against Humanity"]( https://github.com/bridgetkromhout/devops-against-humanity ) eingeplant. Erfahrungen im Bereich Continuous Delivery und Customer Management sind hier vom Vorteil.
+["Devops against Humanity"]( https://github.com/bridgetkromhout/devops-against-humanity ) eingeplant. Erfahrungen im Bereich Continuous Delivery und Customer Management sind hier vom Vorteil aber nicht zwingend erforderlich.
 
 
 Einreichungen: [cfp@eloop.org](mailto:cfp@eloop.org)
