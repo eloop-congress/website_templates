@@ -15,7 +15,7 @@ von Enterprise Software** mit den Erfordernissen des Betriebs und der
 Wartbarkeit vereinen lassen. Vorgestellt werden praktische Beispiele dieses
 Spannungsfeldes, Pattern und Überlegungen zum Thema und insbesondere
 Erfahrungen mit **Devops, Agile und im Bereich Cyber in Enterprise
-Environments**. Dazu gibt wird ein Rahmenprogramm angeboten, dass sich kritisch
+Environments**. Dazu wird ein Rahmenprogramm angeboten, dass sich kritisch
 mit Tendenzen und Fragen aktueller Softwareentwicklung auseinandersetzt.
 Reflektiert wird die praktische Anwendung von Paradigmen um Umfeld einer
 **digitalisierten Unternehmenswelt**.
