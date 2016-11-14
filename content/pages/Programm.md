@@ -9,10 +9,10 @@ Speaker: makefu
 _Es ist schon alles gesagt, nur noch nicht von allen._ - Karl Valentin  
 Viele Probleme der modernen IT wurden bereits gelöst, aber das Wissen um die Lösung ist nicht überall bekannt. Dieser Vortrag zeigt Lösungswege auf, mit denen sich bekannte Probleme im Bereich Application Resiliency lösen lassen.
 
-##Gut genug
+##Enterprise Dinge
 Speaker: ciko
 
-Dokumentierter, getesteter, eleganter und performanter Code sind das Fundament einer stabilen Lösung. Doch wie sehr kann man eigentlich an diesen Bausteinen sparen, ohne dass das Gebäude einstürzt? Muss Code immer für die Ewigkeit gebaut sein?  
+Geschichten und Heulerei über das Leben im IT-Großkonzern.
 
 ##Ohne NAT geht es nicht - dann aber bitte nach IPv6
 Speaker: TabTwo
