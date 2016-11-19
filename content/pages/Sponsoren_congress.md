@@ -7,7 +7,7 @@ status: draft
 Sponsoren für die 33c3 4er Sammelsticker
 * Kist 2000
 * Momo 2000 -> gezahlt
-* Wolpertwo 2000
+* Wolpertwo 2000 -> gezahlt
 * Ciko 2000
 * makefu 2000
 * TTB 2000 -> gezahlt
