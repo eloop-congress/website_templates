@@ -50,7 +50,7 @@ möchten wir hier einige Bilder vorstellen. Alle Fotos stehen unter [Creative Co
 <td></td>
   </tr>
 </table>
-Zusätzlich können unter [twitter hashtag #eloop16]( https://twitter.com/search?q=%23eloop16 )
+Zusätzlich können unter [twitter hashtag #eloop16]( https://twitter.com/search?q=%23eloop16 ) die Highlights der Veranstaltung noch einmal zeitsouverän nachgelesen werden.
 
 Vielen Dank an unsere Sprecher, Teilnehmer und natürlich unsere Sponsoren sowie
 Medienpartner.
