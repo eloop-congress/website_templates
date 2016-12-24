@@ -3,9 +3,9 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'eloop team'
-SITENAME = 'eloop 2016'
+SITENAME = 'eloop 2017'
 SITEURL = ""
-SITETITLE = "eloop 2016"
+SITETITLE = "eloop 2017"
 SITESUBTITLE = "Continous Delivery Conference"
 
 PATH = 'content'
@@ -26,7 +26,7 @@ FAVICON = SITEURL + "/images/favicon.png"
 STATIC_PATHS = ["images", "static"]
 SUMMARY_MAX_LENGTH = None
 
-LINKS = (("Information","/blog_index.html"),)
+LINKS = (("Blog","/blog_index.html"),)
 
 # Social widget
 SOCIAL = (("twitter", "https://twitter.com/eloop_congress"),
