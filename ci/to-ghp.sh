@@ -3,7 +3,7 @@ set -euf
 cd "$(dirname "$(readlink -f "$0")")"/..
 
 : ${GH_TOKEN?must provide GH_TOKEN (https://github.com/settings/tokens)}
-GH_REPO=${GH_REPO:-dev.eloop.org}
+GH_REPO=${GH_REPO:-dev.blog.eloop.org}
 CNAME=${CNAME:-$GH_REPO}
 
 echo "rebuilding pelican with correct siteurl"
