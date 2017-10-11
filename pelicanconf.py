@@ -12,7 +12,7 @@ TIMEZONE = 'Europe/Berlin'
 
 DEFAULT_LANG = u'de'
 
-THEME="attila-1.1"
+THEME="themes/attila-1.1"
 HEADER_COVER = "images/eloop2016/sektempfang_darker.jpg"
 FAVICON = SITEURL + "/images/favicon.png"
 
