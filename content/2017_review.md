@@ -12,12 +12,12 @@ Bilder der eloop 2017 finden sich unten. Alle Fotos stehen unter [Creative Commo
 <table class="flashy-table">
   <!-- TODO static paths -->
   <tr>
-<td><img src=/images/eloop2017/robert_1.jpg></img></td>
-<td><img src=/images/eloop2017/glaeser.jpeg></img></td>
+<td><img style="width: 50%" src=/images/eloop2017/robert_1.jpg></img></td>
+<td><img style="width: 50%" src=/images/eloop2017/glaeser.jpeg></img></td>
   </tr>
    <tr>
-<td><img src=/images/eloop2017/ciko_1.jpg></img></td>
-<td><img src=/images/eloop2017/hadez.jpeg></img></td>
+<td><img style="width: 30%" src=/images/eloop2017/ciko_1.jpg></img></td>
+<td><img style="width: 70%" src=/images/eloop2017/hadez.jpeg></img></td>
   </tr>
 </table>
 Zusätzlich können unter [twitter hashtag #eloop2017]( https://twitter.com/search?q=%23eloop2017 ) die Highlights der Veranstaltung noch einmal zeitsouverän nachgelesen werden.
