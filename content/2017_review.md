@@ -23,3 +23,4 @@ Bilder der eloop 2017 finden sich unten. Alle Fotos stehen unter [Creative Commo
 Zusätzlich können unter [twitter hashtag #eloop2017]( https://twitter.com/search?q=%23eloop2017 ) die Highlights der Veranstaltung noch einmal zeitsouverän nachgelesen werden.
 
 Vielen Dank an unsere Sprecher, Teilnehmer und natürlich unsere Sponsoren.
+
